@@ -1,8 +1,4 @@
-- 👋 Hi, I’m: Acwengile Morris
-- 👀 I’m interested in: Tech
-- 🌱 I’m currently learning: Software Engineering
-- 😄 Pronouns: She / Her
-- ⚡ Fun fact: I am a gamer and skateboarder
+Hello, World👋🏾! I'm Acwengile Morris, a driven and enthusiastic software engineering student at Wethinkcode_. My journey in the world of technology began with a curiosity for how things work, and it has since evolved into a deep passion for creating innovative, impactful solutions. Every line of code I write fuels my excitement for problem-solving and building systems that can make a real difference. I am constantly exploring new tools, languages, and technologies to push the boundaries of what's possible. I'm excited to continue learning, collaborating, and growing as I work toward making meaningful contributions to the ever-evolving tech industry!
 
 ## 🤳🏾 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cweng.z/?locale=en_US%2Cen_GB%2Cen_US%2Cen_GB%2Cen_US%2Cen_GB%2Cen_US%2Cen_GB&hl=am-et) 
