@@ -1,4 +1,4 @@
-# About:
+# 🔎About:
 Hi, I'm Acwengile Morris 👋🏾! I'm a passionate software engineering student at Wethinkcode_. My journey in tech started with a curiosity about how things work, and has grown into a drive to create impactful solutions. I’m always exploring new tools, languages, and technologies to push the boundaries of what's possible. I’m excited to keep learning, developing, and contributing to the ever-evolving tech world!
 
 # 👩🏾‍💻 Tech Stack:
