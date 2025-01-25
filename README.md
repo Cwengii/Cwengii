@@ -8,6 +8,7 @@ Hi, I'm Acwengile Morris 👋🏾! I'm a passionate software engineering student
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/)  
  [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)](https://gitlab.com/)
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 
 To improve my skill set and have an influence in the tech industry, I'm constantly learning new tools and strategies, from front-end to back-end 🖥️.
 
