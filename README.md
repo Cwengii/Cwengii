@@ -52,25 +52,14 @@
   <a href="https://www.instagram.com/cweng.z/?__pwa=1#" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
+  
   <a href="www.linkedin.com/in/acwengile-morris-95a3bb317" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+    <img src="www.linkedin.com/in/acwengile-morris-95a3bb317" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
 <br clear="both">
-
-###
-<div align="left">
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cwengii/Cwengii/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cwengii/Cwengii/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cwengii/Cwengii/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
